@@ -7,8 +7,8 @@ description: Local-only PDF editor for iPhone — merge, reorder, remove, compre
 
 A fully on-device PDF editor for iPhone. Merge PDFs and photos, reorder or remove pages, and compress heavy pages — without uploading anything.
 
-- [Support](./support)
-- [Privacy Policy](./privacy-policy)
+- [Support](support.md)
+- [Privacy Policy](privacy-policy.md)
 
 ---
 

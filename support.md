@@ -53,7 +53,7 @@ v1.0 ships iPhone-only. iPad support may come in a later release.
 
 ## Privacy
 
-The full privacy policy is here: [Privacy Policy](./privacy-policy)
+The full privacy policy is here: [Privacy Policy](privacy-policy.md)
 
 Short version: the app does not collect, transmit, store, or share any data. It cannot reach the internet.
 
