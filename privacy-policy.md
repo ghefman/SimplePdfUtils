@@ -1,6 +1,6 @@
 # Privacy Policy — Simple Pdf Utils
 
-_Last updated: 2026-05-23_
+_Last updated: 2026-05-31_
 
 Simple Pdf Utils ("the app") is published by **DeltaWebOS**. This page explains what data the app collects and what it does with it.
 
@@ -12,13 +12,13 @@ The app processes the files you give it entirely on your device. The only networ
 
 ## How the app handles your files
 
-When you pick a PDF or image:
+When you pick a PDF, image, or Word document:
 
-1. Your system component copies the file into the app's private cache.
-2. The app reads the file locally to count pages, render thumbnails, measure size, or compress.
+1. Your system's file picker copies the file into the app's private cache.
+2. The app reads the file locally to count pages, render thumbnails, measure size, or compress. Word documents (.docx) are converted to a PDF locally using an on-device library (mammoth) and the built-in iOS print engine — no external server is contacted.
 3. When you tap **Save**, the assembled PDF is written to the cache and handed to the iOS share sheet. You then choose where it goes.
 
-At no point your files are uploaded anywhere by the app. iOS may sync the share-sheet destination (for example, if you choose iCloud Drive) — that's controlled by iOS and your settings, not by us.
+At no point are your files uploaded anywhere by the app. iOS may sync the share-sheet destination (for example, if you choose iCloud Drive) — that is controlled by iOS and your settings, not by us.
 
 ## Permissions we request
 
