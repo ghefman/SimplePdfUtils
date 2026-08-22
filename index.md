@@ -1,18 +1,20 @@
 ---
 title: Simple Pdf Utils
-description: Local-only PDF editor for iPhone and Android — merge, reorder, remove, compress, annotate, rotate.
+description: Local-only PDF editor for iPhone, iPad, and Android — merge, reorder, remove, compress, annotate, rotate.
 ---
 
 # Simple Pdf Utils
 
-A fully on-device PDF editor for iPhone and Android. Merge PDFs, photos, and Word documents; reorder or remove pages; add text; rotate pages; compress heavy pages — without uploading anything.
+**Your documents never leave your device.** Merge, edit, and compress PDFs, photos, and Word documents on your iPhone, iPad, or Android — reorder or remove pages, add text, rotate, and shrink heavy pages. Nothing is ever uploaded; it even works fully in Airplane Mode. Free, with no ads and no accounts.
 
-<a href="https://apps.apple.com/app/id6772066280">
-  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="50">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.deltawebos.pdfutils">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="74">
-</a>
+<p style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
+  <a href="https://apps.apple.com/app/id6772066280">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="50">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.deltawebos.pdfutils">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="74">
+  </a>
+</p>
 
 ---
 
@@ -29,7 +31,7 @@ A fully on-device PDF editor for iPhone and Android. Merge PDFs, photos, and Wor
 
 ## Private by design
 
-The app contains no networking code. Every feature works in Airplane Mode. You can verify this yourself.
+Built for the documents you'd never want sitting on someone else's server — contracts, receipts, medical records, scans, and IDs. The app contains no networking code at all, so every feature works in Airplane Mode. You can verify it yourself.
 
 - No accounts or sign-up
 - No data collection, analytics, or tracking
