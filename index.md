@@ -1,14 +1,17 @@
 ---
 title: Simple Pdf Utils
-description: Local-only PDF editor for iPhone — merge, reorder, remove, compress, annotate, rotate.
+description: Local-only PDF editor for iPhone and Android — merge, reorder, remove, compress, annotate, rotate.
 ---
 
 # Simple Pdf Utils
 
-A fully on-device PDF editor for iPhone. Merge PDFs, photos, and Word documents; reorder or remove pages; add text; rotate pages; compress heavy pages — without uploading anything.
+A fully on-device PDF editor for iPhone and Android. Merge PDFs, photos, and Word documents; reorder or remove pages; add text; rotate pages; compress heavy pages — without uploading anything.
 
 <a href="https://apps.apple.com/app/id6772066280">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="50">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.deltawebos.pdfutils">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="74">
 </a>
 
 ---
@@ -22,7 +25,7 @@ A fully on-device PDF editor for iPhone. Merge PDFs, photos, and Word documents;
 - **Preview** any page full-screen with pinch to zoom
 - **Compress** heavy pages (over 300 KB) down to under 250 KB with one tap
 - **Combine photos** into a grid layout on a single page
-- **Save** via the iOS share sheet — you choose where the file goes
+- **Save** via the system share sheet — you choose where the file goes
 
 ## Private by design
 
