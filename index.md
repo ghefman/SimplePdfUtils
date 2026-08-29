@@ -16,6 +16,8 @@ description: Local-only PDF editor for iPhone, iPad, and Android — merge, reor
   </a>
 </p>
 
+<img src="qrcode.png" alt="QR code linking to the Simple Pdf Utils download page" width="170" height="170">
+
 ---
 
 ## What it does
@@ -41,5 +43,6 @@ Built for the documents you'd never want sitting on someone else's server — co
 
 - [Support](support.md)
 - [Privacy Policy](privacy-policy.md)
+- [Get the app](get/)
 
 Contact: [ghefetz@gmail.com](mailto:ghefetz@gmail.com)

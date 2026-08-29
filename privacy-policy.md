@@ -1,3 +1,5 @@
+[← Simple Pdf Utils](index.md)
+
 # Privacy Policy — Simple Pdf Utils
 
 _Last updated: 2026-05-31_
@@ -73,3 +75,9 @@ Questions or concerns:
 Privacy promises are easy to make. You can verify ours without taking our word for it:
 
 **Airplane Mode.** Enable Airplane Mode on your iPhone. Every feature of Simple Pdf Utils — picking files, reordering, removing, previewing, compressing, saving — works identically. The framework's update check fails silently (because the server is unreachable) and the rest of the app proceeds. If the app had been quietly uploading your files, Airplane Mode would break it.
+
+---
+
+- [Home](index.md)
+- [Support](support.md)
+- [Get the app](get/)

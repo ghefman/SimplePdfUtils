@@ -1,3 +1,5 @@
+[← Simple Pdf Utils](index.md)
+
 # Simple Pdf Utils — Support
 
 _Last updated: 2026-08-22_
@@ -93,3 +95,9 @@ If the app actually crashed (closes back to the home screen), a crash log may he
 
 - **iPhone / iPad:** **Settings → Privacy & Security → Analytics & Improvements → Analytics Data**. Find one starting with `pdfutils-` or `Simple Pdf Utils-` and attach its `.ips` file to the email.
 - **Android:** if a "Simple Pdf Utils keeps stopping" dialog appears, tap to send the report, or note what you were doing and email the steps — that's usually enough to reproduce it.
+
+---
+
+- [Home](index.md)
+- [Privacy Policy](privacy-policy.md)
+- [Get the app](get/)
