@@ -8,7 +8,7 @@ description: Local-only PDF editor for iPhone, iPad, and Android — merge, reor
 **Your documents never leave your device.** Merge, edit, and compress PDFs, photos, and Word documents on your iPhone, iPad, or Android — reorder or remove pages, add text, rotate, and shrink heavy pages. Nothing is ever uploaded; it even works fully in Airplane Mode. Free, with no ads and no accounts.
 
 <p style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
-  <a href="https://apps.apple.com/app/id6772066280">
+  <a href="https://apps.apple.com/app/simple-pdf-utils/id6772066280">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" height="50">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.deltawebos.pdfutils">
